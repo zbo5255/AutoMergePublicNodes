@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #4'
+  name: '1,6|🇺🇸_US_美国 #7'
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -12,7 +12,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #5'
+  name: '1,6|🇺🇸_US_美国 #8'
   network: ws
   port: 2086
   server: 104.19.47.122
@@ -23,7 +23,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
+  name: '1,3,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #10'
   network: ws
   port: 2086
   server: 104.19.57.4
@@ -34,7 +34,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大
+  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
   network: ws
   port: 2086
   server: 104.19.47.79
@@ -51,7 +51,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #7'
+  name: '1,6|🇺🇸_US_美国 #10'
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -62,7 +62,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #1'
+  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #5'
   network: ws
   port: 2086
   server: 104.19.46.39
@@ -73,7 +73,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 1,6|🇺🇸_US_美国->🇨🇳_CN_中国
+  name: '1,6|🇺🇸_US_美国->🇨🇳_CN_中国 #1'
   network: ws
   port: 2052
   server: 104.19.21.240
@@ -84,7 +84,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #2'
+  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
   network: ws
   port: 2086
   server: 104.19.47.32
@@ -112,7 +112,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #8'
+  name: '1,6|🇺🇸_US_美国 #11'
   network: ws
   port: 2086
   server: 104.20.25.146
@@ -145,7 +145,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #9'
+  name: '1,6|🇺🇸_US_美国 #12'
   network: ws
   port: 2086
   server: 104.19.21.230
@@ -156,7 +156,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #3'
+  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #7'
   network: ws
   port: 2086
   server: 104.19.45.47
@@ -167,7 +167,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #5'
+  name: '1,3,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #9'
   network: ws
   port: 2086
   server: 104.18.57.111
@@ -178,7 +178,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇳_CN_中国 #1'
+  name: '1,6|🇺🇸_US_美国->🇨🇳_CN_中国 #2'
   network: ws
   port: 8080
   server: 104.19.47.126
@@ -189,7 +189,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #11'
+  name: '1,6|🇺🇸_US_美国 #14'
   network: ws
   port: 2052
   server: 104.19.46.123
@@ -212,7 +212,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #12'
+  name: '1,6|🇺🇸_US_美国 #15'
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -229,7 +229,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #13'
+  name: '1,6|🇺🇸_US_美国 #16'
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -240,7 +240,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #14'
+  name: '1,6|🇺🇸_US_美国 #17'
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -250,7 +250,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #15'
+  name: '1,6|🇺🇸_US_美国 #18'
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -261,7 +261,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #16'
+  name: '1,6|🇺🇸_US_美国 #19'
   network: ws
   port: 2086
   server: 104.19.45.15
@@ -410,170 +410,349 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇸🇬1 |  1.2MB/s
-  network: tcp
-  port: 4135
-  server: 28e38e7c-su2dc0-sv85jh-dcdv.d.volczijie.com
+  name: '3,17|🇺🇸_US_美国 #20'
+  network: ws
+  port: 2082
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: 1659deda-0625-11f0-8002-f23c93141fad
+  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
+  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|1|🇭🇰13 |  3.8MB/s
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #2'
   network: ws
-  port: 443
-  server: hknbyivfffj.site
-  servername: ''
+  port: 2052
+  server: 104.18.37.248
+  tls: false
+  type: vmess
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇨🇳_CN_中国 #3'
+  network: ws
+  port: 8080
+  server: 104.19.47.16
+  tls: false
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #8'
+  network: ws
+  port: 2086
+  server: 104.19.47.65
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #3'
+  network: ws
+  port: 16928
+  server: 120.232.240.56
+  tls: false
+  type: vmess
+  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
+  ws-opts: {}
+- alterId: 64
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #4'
+  network: tcp
+  port: 54002
+  server: 183.240.235.162
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #3'
+  network: ws
+  port: 2052
+  server: p3.v2raybrasil.cloud
+  tls: false
+  type: vmess
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国 #21'
+  network: ws
+  port: 2086
+  server: 104.19.32.46
+  tls: false
+  type: vmess
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts: {}
+- alterId: 64
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国 #1'
+  network: tcp
+  port: 54882
+  server: 183.240.235.162
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国 #22'
+  network: ws
+  port: 8080
+  server: russia.com
+  tls: false
+  type: vmess
+  uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
+  network: ws
+  port: 2082
+  server: 172.67.130.140
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #11'
+  network: ws
+  port: 2086
+  server: 172.64.175.213
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇬🇧2 |  4.8MB/s
+  network: tcp
+  port: 17931
+  server: v2-uk-zx.netcar.live
+  tls: false
+  type: vmess
+  uuid: 3a6a527c-1c8c-4500-b644-a5ab35efc934
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇰🇷2 |  2.9MB/s
+  network: ws
+  port: '443'
+  server: kr.ttcc.tech
   tls: true
   type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  uuid: 41cfbd9d-d2da-4300-a142-b49068f7ad3d
+  ws-opts:
+    path: /41cfbd9d-d2da-4300-a142-b49068f7ad3d
+- alterId: 0
+  cipher: auto
+  name: 11|1|🌀9-GR |  6.3MB/s
+  network: ws
+  port: 25242
+  server: hk1.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
   ws-opts:
     headers:
-      Host: hknbyivfffj.site
-    path: /rbqqvws
+      Host: hk1.awslcn.info
+    path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇸🇬3 |  1.1MB/s
-  network: tcp
-  port: 3681
-  server: 82ba1c75-su2dc0-sv85jh-dcdv.c.volczijie.com
-  tls: false
-  type: vmess
-  uuid: 1659deda-0625-11f0-8002-f23c93141fad
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬4 |  2.4MB/s
-  network: tcp
-  port: 4135
-  server: 148cda66-su2dc0-susvoj-d6ar.d.volczijie.com
-  tls: false
-  type: vmess
-  uuid: a16d62f6-048d-11f0-af5a-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬5 |  2.0MB/s
-  network: tcp
-  port: 3683
-  server: b953fc54-su2dc0-sv9ymy-dezg.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: 952f0a9a-097d-11f0-aa52-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇯🇵8 |  4.9MB/s
-  network: tcp
-  port: 3684
-  server: 28e38e7c-su2dc0-sv85jh-dcdv.d.volczijie.com
-  tls: false
-  type: vmess
-  uuid: 1659deda-0625-11f0-8002-f23c93141fad
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬7 |  4.5MB/s
-  network: tcp
-  port: 4137
-  server: d64de51c-su2dc0-susvoj-d6ar.c.volczijie.com
-  tls: false
-  type: vmess
-  uuid: a16d62f6-048d-11f0-af5a-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇯🇵9 |  3.7MB/s
-  network: tcp
-  port: 4151
-  server: 82ba1c75-su2dc0-sv85jh-dcdv.c.volczijie.com
-  tls: false
-  type: vmess
-  uuid: 1659deda-0625-11f0-8002-f23c93141fad
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇭🇰11 |  2.1MB/s
-  network: tcp
-  port: 4136
-  server: ac9d3c3c-su2dc0-sv9ymy-dezg.d.volczijie.com
-  tls: false
-  type: vmess
-  uuid: 952f0a9a-097d-11f0-aa52-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬10 |  4.4MB/s
-  network: tcp
-  port: 3681
-  server: d64de51c-su2dc0-susvoj-d6ar.c.volczijie.com
-  tls: false
-  type: vmess
-  uuid: a16d62f6-048d-11f0-af5a-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇫🇷6 |  2.8MB/s
+  name: 11|1|🇯🇵1 |  6.5MB/s
   network: ws
-  port: 443
-  server: 172.67.220.10
-  servername: linja05.hwcar.sbs
-  tls: true
+  port: 25279
+  server: cu.awslcn.info
+  tls: false
   type: vmess
-  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
   ws-opts:
     headers:
-      Host: linja05.hwcar.sbs
-    path: /linkws
+      Host: cu.awslcn.info
+    path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇸🇬12 |  3.1MB/s
-  network: tcp
-  port: 3683
-  server: a23ffce7-su2dc0-susvoj-d6ar.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: a16d62f6-048d-11f0-af5a-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇭🇰14 |  1.7MB/s
-  network: tcp
-  port: 4138
-  server: d64de51c-su2dc0-susvoj-d6ar.c.volczijie.com
-  tls: false
-  type: vmess
-  uuid: a16d62f6-048d-11f0-af5a-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸25 |  2.7MB/s
+  name: 11|1|🇯🇵2 |  3.9MB/s
   network: ws
-  port: '8443'
-  server: 156.238.18.68
+  port: 11184
+  server: 175.215.154.208
+  servername: oracle2ipv4.till.nyc.mn
   tls: true
   type: vmess
-  uuid: c313606f-98c2-4d7b-ba74-48b94f61b11d
-  ws-opts:
-    path: /?maps.app.goo.gl/K3hM5xrwZV7bQVBa7?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇫🇷7 |  2.2MB/s
-  network: ws
-  port: 443
-  server: 172.67.220.83
-  servername: linja05.hwcar.sbs
-  tls: true
-  type: vmess
-  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
+  uuid: 0ee75dd1-5e59-4615-a6a8-6fe7aa0b6f17
   ws-opts:
     headers:
-      Host: linja05.hwcar.sbs
-    path: /linkws
+      Host: oracle2ipv4.till.nyc.mn
+    path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇭🇰16 |  5.4MB/s
+  name: 11|1|🇰🇷7 |  5.9MB/s
   network: ws
-  port: 443
-  server: 104.21.6.201
-  servername: hknbyivfffj.site
+  port: '443'
+  server: kr3.ttcc.tech
   tls: true
   type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  uuid: b2d10673-24cc-4f96-b1f3-da8b17589077
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇬🇧7 |  5.0MB/s
+  network: ws
+  port: 25240
+  server: cm.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
   ws-opts:
     headers:
-      Host: hknbyivfffj.site
-    path: /rbqqvws
+      Host: cm.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇯🇵6 |  3.9MB/s
+  network: ws
+  port: '11184'
+  server: 175.215.154.208
+  tls: true
+  type: vmess
+  uuid: 0ee75dd1-5e59-4615-a6a8-6fe7aa0b6f17
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇯🇵8 |  6.3MB/s
+  network: ws
+  port: 25278
+  server: cu.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts:
+    headers:
+      Host: cu.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇩🇪3 |  5.1MB/s
+  network: ws
+  port: 25241
+  server: cm1.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸21 |  5.8MB/s
+  network: ws
+  port: 443
+  server: 104.25.252.185
+  servername: server1-2.99887766.best
+  tls: true
+  type: vmess
+  uuid: fd3916e7-4cff-488d-bcd6-61642335d5b7
+  ws-opts:
+    headers:
+      Host: server1-2.99887766.best
+    path: /zsd8o7i4ay28739qtgfwa
+- alterId: 0
+  cipher: auto
+  name: 11|1|🌀19-VN |  4.8MB/s
+  network: ws
+  port: 25285
+  server: cu.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts:
+    headers:
+      Host: cu.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇯🇵9 |  6.0MB/s
+  network: ws
+  port: 25277
+  server: cu.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts:
+    headers:
+      Host: cu.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸24 |  5.8MB/s
+  network: ws
+  port: '443'
+  server: 104.25.252.185
+  tls: true
+  type: vmess
+  uuid: fd3916e7-4cff-488d-bcd6-61642335d5b7
+  ws-opts:
+    path: /zsd8o7i4ay28739qtgfwa
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇩🇪5 |  2.9MB/s
+  network: ws
+  port: 25241
+  server: cm.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts:
+    headers:
+      Host: cm.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🌀22-GR |  4.9MB/s
+  network: ws
+  port: 25244
+  server: hk1.awslcn.info
+  tls: false
+  type: vmess
+  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
+  ws-opts:
+    headers:
+      Host: hk1.awslcn.info
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇭🇰9 |  1.6MB/s
+  network: tcp
+  port: 10032
+  server: v2-hk4-zf.netcar.live
+  tls: false
+  type: vmess
+  uuid: 21ddbca6-a333-4aa1-9431-33725df1e85e
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇰🇷10 |  5.6MB/s
+  network: ws
+  port: 443
+  server: kr3.ttcc.tech
+  servername: kr3.ttcc.tech
+  tls: true
+  type: vmess
+  uuid: b2d10673-24cc-4f96-b1f3-da8b17589077
+  ws-opts:
+    headers:
+      Host: kr3.ttcc.tech
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🌀24- |  4.6MB/s
+  network: tcp
+  port: 34013
+  server: v2-us2-zx.netcar.live
+  tls: false
+  type: vmess
+  uuid: 9a037058-73a1-4fc3-973f-c73b1f612d81
 - alterId: 0
   cipher: auto
   name: 11,16|日本|@ripaojiedian
@@ -806,121 +985,3 @@ proxies:
   server: 18.181.194.77
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #17'
-  network: ws
-  port: 2082
-  server: cfcdn1.sanfencdn9.com
-  tls: false
-  type: vmess
-  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 17|🇺🇸_US_美国->🇧🇷_BR_巴西
-  network: ws
-  port: 2052
-  server: 104.18.37.248
-  tls: false
-  type: vmess
-  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇳_CN_中国 #2'
-  network: ws
-  port: 8080
-  server: 104.19.47.16
-  tls: false
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
-  network: ws
-  port: 2086
-  server: 104.19.47.65
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇨🇳_CN_中国->🇺🇸_US_美国 #1'
-  network: ws
-  port: 16928
-  server: 120.232.240.56
-  tls: false
-  type: vmess
-  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
-  ws-opts: {}
-- alterId: 64
-  cipher: auto
-  name: '17|🇨🇳_CN_中国->🇺🇸_US_美国 #2'
-  network: tcp
-  port: 54002
-  server: 183.240.235.162
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇧🇷_BR_巴西 #1'
-  network: ws
-  port: 2052
-  server: p3.v2raybrasil.cloud
-  tls: false
-  type: vmess
-  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #18'
-  network: ws
-  port: 2086
-  server: 104.19.32.46
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
-- alterId: 64
-  cipher: auto
-  name: 17|🇨🇳_CN_中国
-  network: tcp
-  port: 54882
-  server: 183.240.235.162
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #19'
-  network: ws
-  port: 8080
-  server: russia.com
-  tls: false
-  type: vmess
-  uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇫🇷_FR_法国 #1'
-  network: ws
-  port: 2082
-  server: 172.67.130.140
-  tls: false
-  type: vmess
-  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #7'
-  network: ws
-  port: 2086
-  server: 172.64.175.213
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
