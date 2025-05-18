@@ -19,7 +19,7 @@ proxies:
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
 - alterId: 0
   cipher: auto
-  name: '1,3|🇺🇸_US_美国->🇨🇦_CA_加拿大 #2'
+  name: '1,3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
   network: ws
   port: 2086
   server: 104.19.57.4
@@ -143,7 +143,7 @@ proxies:
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
 - alterId: 0
   cipher: auto
-  name: '1,3|🇺🇸_US_美国->🇨🇦_CA_加拿大 #1'
+  name: '1,3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #5'
   network: ws
   port: 2086
   server: 104.18.57.111
@@ -372,7 +372,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国 #4'
+  name: '3,17|🇺🇸_US_美国 #7'
   network: ws
   port: 2082
   server: cfcdn1.sanfencdn9.com
@@ -382,7 +382,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇧🇷_BR_巴西
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #2'
   network: ws
   port: 2052
   server: 104.18.37.248
@@ -392,7 +392,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇨🇳_CN_中国
+  name: '3,17|🇺🇸_US_美国->🇨🇳_CN_中国 #1'
   network: ws
   port: 8080
   server: 104.19.47.16
@@ -402,7 +402,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸_US_美国->🇨🇦_CA_加拿大
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
   network: ws
   port: 2086
   server: 104.19.47.65
@@ -412,7 +412,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3|🇨🇳_CN_中国->🇺🇸_US_美国 #1'
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #3'
   network: ws
   port: 16928
   server: 120.232.240.56
@@ -422,7 +422,7 @@ proxies:
   ws-opts: {}
 - alterId: 64
   cipher: auto
-  name: '3|🇨🇳_CN_中国->🇺🇸_US_美国 #2'
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #4'
   network: tcp
   port: 54002
   server: 183.240.235.162
@@ -431,7 +431,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国->🇧🇷_BR_巴西 #1'
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #3'
   network: ws
   port: 2052
   server: p3.v2raybrasil.cloud
@@ -441,7 +441,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国 #5'
+  name: '3,17|🇺🇸_US_美国 #8'
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -451,7 +451,7 @@ proxies:
   ws-opts: {}
 - alterId: 64
   cipher: auto
-  name: 3|🇨🇳_CN_中国
+  name: '3,17|🇨🇳_CN_中国 #1'
   network: tcp
   port: 54882
   server: 183.240.235.162
@@ -460,7 +460,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国 #6'
+  name: '3,17|🇺🇸_US_美国 #9'
   network: ws
   port: 8080
   server: russia.com
@@ -470,7 +470,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国->🇫🇷_FR_法国 #1'
+  name: '3,17|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
   network: ws
   port: 2082
   server: 172.67.130.140
@@ -480,7 +480,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3|🇺🇸_US_美国->🇨🇦_CA_加拿大 #3'
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #7'
   network: ws
   port: 2086
   server: 172.64.175.213
@@ -490,7 +490,7 @@ proxies:
   ws-opts: {}
 - alterId: 64
   cipher: auto
-  name: 8|3|🇯🇵1 |  1.8MB/s|54%|Youtube|O...
+  name: 11|3|🇯🇵1 |  1.8MB/s|54%|Youtube|O...
   network: ws
   port: 1443
   server: sslvpn.51job.com
@@ -503,7 +503,7 @@ proxies:
     path: /634c5c4f9782
 - alterId: 64
   cipher: auto
-  name: 8|3|🇸🇬1 |  1.0MB/s|0%|Netflix|Di...
+  name: 11|3|🇸🇬1 |  1.0MB/s|0%|Netflix|Di...
   network: tcp
   port: 49291
   server: 183.236.51.38
@@ -512,7 +512,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 8|3|🌀4-TH |  2.6MB/s|55%|Netflix...
+  name: 11|3|🌀4-TH |  2.6MB/s|55%|Netflix...
   network: ws
   port: 443
   server: 38.47.96.30
@@ -525,7 +525,7 @@ proxies:
     path: /lzjjj
 - alterId: 2
   cipher: auto
-  name: 8|3|🇺🇸62 |  3.3MB/s|Openai|Gemin...
+  name: 11|3|🇺🇸62 |  3.3MB/s|Openai|Gemin...
   network: ws
   port: 30829
   server: v29.heduian.link
@@ -540,7 +540,7 @@ proxies:
   cipher: auto
   grpc-opts:
     grpc-service-name: vmess-grpc
-  name: 8|3|🇩🇪5 |  1.4MB/s|0%|Youtube|Op...
+  name: 11|3|🇩🇪5 |  1.4MB/s|0%|Youtube|Op...
   network: grpc
   port: 443
   server: de.vmess.comnpmjs.com
@@ -550,11 +550,14 @@ proxies:
   uuid: ceaaf653-9874-58c6-b100-092c01a1f73d
 - alterId: 0
   cipher: auto
-  name: 8,13|香港8|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|香港8|@ripaojiedian
   network: ws
   port: '8080'
   server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
   servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
@@ -564,7 +567,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 8,13|香港3|@ripaojiedian
+  name: 11,16|香港3|@ripaojiedian
   network: tcp
   port: '35921'
   server: 120.198.71.216
@@ -574,7 +577,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 8,13|香港4|@ripaojiedian
+  name: 11,16|香港4|@ripaojiedian
   network: tcp
   port: '19019'
   server: 45.89.233.67
@@ -584,7 +587,7 @@ proxies:
   uuid: 802e1632-9c29-4f2d-821f-96a35daeed3b
 - alterId: 0
   cipher: auto
-  name: 8,13|香港6|@ripaojiedian
+  name: 11,16|香港6|@ripaojiedian
   network: tcp
   port: '45939'
   server: 103.30.76.218
@@ -594,11 +597,14 @@ proxies:
   uuid: 268fe594-cd35-4038-8bc1-1086ada27fe8
 - alterId: 2
   cipher: auto
-  name: 8,13|香港7|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|香港7|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
   servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -608,7 +614,7 @@ proxies:
     path: /oooo
 - alterId: 64
   cipher: auto
-  name: 8,13|日本4|@ripaojiedian
+  name: 11,16|日本4|@ripaojiedian
   network: tcp
   port: '55002'
   server: 183.237.84.53
@@ -618,11 +624,14 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 2
   cipher: auto
-  name: 8,13|新加坡|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|新加坡|@ripaojiedian
   network: ws
   port: '30812'
   server: v12.heduian.link
   servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -632,11 +641,14 @@ proxies:
     path: /oooo
 - alterId: 2
   cipher: auto
-  name: 8,13|美国|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|美国|@ripaojiedian
   network: ws
   port: '30832'
   server: v32.heduian.link
   servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
@@ -646,11 +658,14 @@ proxies:
     path: /oooo
 - alterId: 2
   cipher: auto
-  name: 8,13|美国4|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|美国4|@ripaojiedian
   network: ws
   port: '22642'
   server: tk.hzlt.tkddns.xyz
   servername: zxjp-b.tkong.cc
+  skip-cert-verify: false
+  tfo: false
   tls: true
   type: vmess
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
@@ -660,11 +675,14 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: 8,13|美国5|@ripaojiedian
+  client-fingerprint: chrome
+  name: 11,15,16|美国5|@ripaojiedian
   network: ws
   port: '22641'
   server: tk.hzlt.tkddns.xyz
   servername: zxjp-a.tkong.cc
+  skip-cert-verify: false
+  tfo: false
   tls: true
   type: vmess
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
@@ -674,7 +692,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 8,13|日本5|@ripaojiedian
+  name: 11,16|日本5|@ripaojiedian
   network: kcp
   port: '53893'
   server: 47.74.41.147
@@ -684,7 +702,7 @@ proxies:
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 印度  2
+  name: 12|github.com/freefq - 印度  2
   network: ws
   port: 443
   server: 202.78.162.5
@@ -698,7 +716,7 @@ proxies:
     path: /@forwardv2ray
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 印度  3
+  name: 12|github.com/freefq - 印度  3
   network: ws
   port: 443
   server: 202.78.162.5
@@ -712,7 +730,7 @@ proxies:
     path: /@forwardv2ray
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 美国CloudFla...
+  name: 12|github.com/freefq - 美国CloudFla...
   network: ws
   port: 8080
   server: www.darkroom.lol
@@ -725,7 +743,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '9|github.com/freefq - 美国CloudFla... #1'
+  name: '12|github.com/freefq - 美国CloudFla... #1'
   network: ws
   port: 8880
   server: server31.beheshtbaneh.com
@@ -739,7 +757,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 广东省移动 7
+  name: 12|github.com/freefq - 广东省移动 7
   network: ws
   port: '20401'
   server: data-us-v1.shwjfkw.cn
@@ -753,7 +771,7 @@ proxies:
     path: /debian
 - alterId: 0
   cipher: auto
-  name: '9|github.com/freefq - 美国CloudFla... #2'
+  name: '12|github.com/freefq - 美国CloudFla... #2'
   network: ws
   port: 8880
   server: 104.21.82.183
@@ -767,7 +785,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 印度  10
+  name: 12|github.com/freefq - 印度  10
   network: ws
   port: 443
   server: 202.78.162.5
@@ -781,7 +799,7 @@ proxies:
     path: /@forwardv2ray
 - alterId: 0
   cipher: auto
-  name: 9|github.com/freefq - 美国Fastly全球...
+  name: 12|github.com/freefq - 美国Fastly全球...
   network: ws
   port: 443
   server: gov.uk
@@ -794,7 +812,7 @@ proxies:
     path: /77848824
 - alterId: 0
   cipher: auto
-  name: '9|github.com/freefq - 美国CloudFla... #3'
+  name: '12|github.com/freefq - 美国CloudFla... #3'
   network: ws
   port: 8880
   server: server32.beheshtbaneh.com
@@ -806,3 +824,120 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 15|tg频道:@ripaojiedian
+  password: awsps0501
+  port: 443
+  server: 44.247.146.47
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港|@ripaojiedian
+  password: ENYGONDU94UW1G6X
+  port: 15010
+  server: 8tv68qhq.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港2|@ripaojiedian
+  password: 91a41f4e02dc
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: hkkh11v1.xpmc.cc
+    mode: websocket
+    mux: true
+    path: /utvbnrzejpmt
+    skip-cert-verify: false
+    tls: true
+  port: 33706
+  server: hkkh11v1.xpmc.cc
+  tfo: false
+  type: ss
+- alterId: 64
+  cipher: auto
+  client-fingerprint: chrome
+  name: 15|🇯🇵 日本4|@ripaojiedian
+  password: 2c605663-b89a-5734-a9d6-97d4743d72cf
+  port: 55002
+  server: 183.237.84.53
+  skip-cert-verify: false
+  sni: hk-13-568.flztjc.net
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 15|🇯🇵 日本|@ripaojiedian
+  password: efanccyun
+  plugin: obfs
+  plugin-opts:
+    host: 202505031478387-KuiKPndOsR.download.microsoft.com
+    mode: http
+  port: 8766
+  server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇯🇵 日本2|@ripaojiedian
+  password: af77ad2f906d
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: jp1v9.8vote.cn
+    mode: websocket
+    mux: true
+    path: /ozasebsz
+    skip-cert-verify: false
+    tls: true
+  port: 26545
+  server: 103.140.136.76
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇸🇬 新加坡2|@ripaojiedian
+  password: O363WP68J33COIEX
+  port: 16009
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 15|🇰🇷 韩国|@ripaojiedian
+  password: qwerREWQ@@
+  port: 15098
+  server: 125.141.31.72
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇰🇷 韩国2|@ripaojiedian
+  password: 1a17b19d-4896-4531-af79-6e91d8ef8228
+  port: 6666
+  server: 3.34.139.2
+  tfo: false
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 15|🇰🇷 韩国3|@ripaojiedian
+  password: 1601e3c29c8db1a88942cf0cad731bf3
+  port: 3306
+  server: 43.131.255.175
+  tfo: false
+  type: ss
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国2|@ripaojiedian
+  password: efanccyun
+  plugin: obfs
+  plugin-opts:
+    host: 202505031478387-KuiKPndOsR.download.microsoft.com
+    mode: http
+  port: 8774
+  server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
