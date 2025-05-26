@@ -1,7 +1,7 @@
 proxies:
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 12|🇯🇵 日本|@ripaojiedian
+  name: 15|🇯🇵 日本|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
@@ -13,7 +13,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 12|🇯🇵 日本2|@ripaojiedian
+  name: 15|🇯🇵 日本2|@ripaojiedian
   password: 04e28ee6e6b0
   plugin: v2ray-plugin
   plugin-opts:
@@ -29,7 +29,7 @@ proxies:
   type: ss
 - alterId: 64
   cipher: auto
-  name: 13|日本3|@ripaojiedian
+  name: 16|日本3|@ripaojiedian
   network: tcp
   port: '55002'
   server: 183.237.84.53
@@ -39,7 +39,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 13|日本5|@ripaojiedian
+  name: 16|日本5|@ripaojiedian
   network: kcp
   port: '53893'
   server: 47.74.41.147
