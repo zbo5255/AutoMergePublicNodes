@@ -1,9 +1,9 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 11,15|🇭🇰 香港|@ripaojiedian
+  name: '11,15,16|香港|@ripaojiedian #1'
   network: ws
-  port: 30809
+  port: '30809'
   server: v9.heduian.link
   servername: ''
   skip-cert-verify: false
